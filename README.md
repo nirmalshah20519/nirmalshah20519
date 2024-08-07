@@ -15,23 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Header](https://via.placeholder.com/1000x200)
+
 ### About Me
 
-I'm Nirmal Shah, a passionate software engineer and M.Tech student specializing in Machine Learning at DAIICT Gandhinagar. With a strong foundation in full-stack development and a keen interest in motorsports, I strive to create impactful solutions through code.
+I'm **Nirmal Shah**, a passionate software engineer and M.Tech student specializing in Machine Learning at DAIICT Gandhinagar. With a strong foundation in full-stack development and a keen interest in motorsports, I strive to create impactful solutions through code.
 
 - 🌍 **From**: Navsari, Gujarat, India
-- 🎓 **Education**: B.E. in Computer Science from GEC Patan (CGPA: 8.76)
+- 🎓 **Education**:
+    - 🎓 M.Tech in ICT Machine Learning Specialization from **DAIICT** (CGPA 8.66)
+    - 🎓 B.E. in Computer Science from **GEC Patan** (CGPA: 8.76)
 - 🏆 **Achievements**: Qualified GATE in 2022 and 2023
 - 🔍 **Interests**: Machine Learning, Web Development, Motorsports, Cars
 
 ### My Tech Stack
 
-- **Languages**: C/C++, C#, Python, JavaScript/TypeScript
-- **Frontend**: Angular, ReactJS, Material-UI
-- **Backend**: .NET Core, NodeJS, Flask API
-- **Cloud**: AWS (S3, EC2)
-- **ML Libraries**: Keras, TensorFlow
-- **Databases**: PostgreSQL, MySQL
+- 💻 **Languages**: ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+- 🌐 **Frontend**: ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white)
+- 🖥 **Backend**: ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+- ☁️ **Cloud**: ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) (S3, EC2)
+- 📊 **ML Libraries**: ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+- 🗄 **Databases**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 ### Projects & Experience
 
@@ -40,14 +44,13 @@ I'm Nirmal Shah, a passionate software engineer and M.Tech student specializing 
   - Completed a project using Angular and .NET Core
 
 - **Academic Projects**: 
-  - Monkey Detection using Yolo and OpenCV
-  - Movie Ticket booking site (BookMyShow Clone)
-  - Food Ordering Site (Swiggy Clone)
+  - 🐒 Monkey Detection using Yolo and OpenCV
+  - 🎟️ Movie Ticket booking site (BookMyShow Clone)
+  - 🍔 Food Ordering Site (Swiggy Clone)
 
 ### Hobbies & Interests
 
-- **Hobbies**: Chess, Cricket
-
+- **Hobbies**: ♟ Chess, 🏏 Cricket
 
 ### Let's Connect
 
@@ -58,3 +61,7 @@ I'm Nirmal Shah, a passionate software engineer and M.Tech student specializing 
 ### Fun Fact
 
 I love solving complex problems and am always up for a game of chess.
+
+---
+
+Feel free to customize this further as needed!
