@@ -67,5 +67,3 @@ I'm **Nirmal Shah**, a passionate software engineer and M.Tech student specializ
 I love solving complex problems and am always up for a game of chess.
 
 ---
-
-Feel free to customize this further as needed!
