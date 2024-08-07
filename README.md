@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-I'm **Nirmal Shah**, a passionate software engineer and M.Tech student specializing in Machine Learning at DAIICT Gandhinagar. With a strong foundation in full-stack development and a keen interest in motorsports, I strive to create impactful solutions through code.
+I'm **Nirmal Shah**, a passionate software engineer and M.Tech student specializing in Machine Learning at DAIICT Gandhinagar. With a strong foundation in full-stack development, I strive to create impactful solutions through code.
 
 - 🌍 **From**: Navsari, Gujarat, India
 - 🎓 **Education**:
