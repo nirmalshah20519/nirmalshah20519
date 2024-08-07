@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](https://via.placeholder.com/1000x200)
+![Header]([https://via.placeholder.com/1000x200](https://res.cloudinary.com/medico-cloud/video/upload/v1723050244/Portfolio/Portfolio_-_Google_Chrome_2024-08-07_22-26-01_lgrwbf.mp4))
 
 ### About Me
 
@@ -45,8 +45,10 @@ I'm **Nirmal Shah**, a passionate software engineer and M.Tech student specializ
 
 - **Academic Projects**: 
   - 🐒 Monkey Detection using Yolo and OpenCV
+  - 📚 RecShorts - Personalized Shorts for smart readers
   - 🎟️ Movie Ticket booking site (BookMyShow Clone)
   - 🍔 Food Ordering Site (Swiggy Clone)
+
 
 ### Hobbies & Interests
 
