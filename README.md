@@ -28,7 +28,7 @@ I'm **Nirmal Shah**, a passionate software engineer and M.Tech student specializ
     - 🎓 M.Tech in ICT Machine Learning Specialization from **DAIICT** (CGPA 8.66)
     - 🎓 B.E. in Computer Science from **GEC Patan** (CGPA: 8.76)
 - 🏆 **Achievements**: Qualified GATE in 2022 and 2023
-- 🔍 **Interests**: Machine Learning, Web Development, Motorsports, Cars
+- 🔍 **Interests**: Machine Learning, Web Development
 
 ### My Tech Stack
 
