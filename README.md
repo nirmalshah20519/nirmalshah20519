@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](https://res.cloudinary.com/medico-cloud/image/upload/v1723050329/Portfolio/nirmalShah_qgshlj.gif)
-
+<div align="center">
+  <img src="https://via.placeholder.com/1000x200" alt="Header" style="width:100%;">
+</div>
 ### About Me
 
 I'm **Nirmal Shah**, a passionate software engineer and M.Tech student specializing in Machine Learning at DAIICT Gandhinagar. With a strong foundation in full-stack development and a keen interest in motorsports, I strive to create impactful solutions through code.
