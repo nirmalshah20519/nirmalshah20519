@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
   <img src="https://res.cloudinary.com/medico-cloud/image/upload/v1723050329/Portfolio/nirmalShah_qgshlj.gif" alt="Header" style="width:100%;">
+</div>
 
 ### About Me
 
