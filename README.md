@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header]([https://via.placeholder.com/1000x200](https://res.cloudinary.com/medico-cloud/video/upload/v1723050244/Portfolio/Portfolio_-_Google_Chrome_2024-08-07_22-26-01_lgrwbf.mp4))
+![Header](https://res.cloudinary.com/medico-cloud/image/upload/v1723050329/Portfolio/nirmalShah_qgshlj.gif)
 
 ### About Me
 
