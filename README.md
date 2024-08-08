@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://res.cloudinary.com/medico-cloud/image/upload/v1723146804/Portfolio/portfff_hnyq8y.gif" alt="Header" style="width:100vw;">
+  <img src="https://res.cloudinary.com/medico-cloud/image/upload/v1723146998/Portfolio/portfff_rilry9.gif" alt="Header" style="width:100vw;">
 </div>
 
 ### About Me
