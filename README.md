@@ -45,11 +45,12 @@ I'm **Nirmal Shah**, a passionate software engineer and M.Tech student specializ
   - Learned full-stack web technologies
   - Completed a project using Angular and .NET Core
 
-- **Academic Projects**: 
+- **Projects**: 
   - 🐒 Monkey Detection using Yolo and OpenCV
   - 📚 RecShorts - Personalized Shorts for smart readers
   - 🎟️ Movie Ticket booking site (BookMyShow Clone)
   - 🍔 Food Ordering Site (Swiggy Clone)
+  - 🎉 Synapse'24 Website (DAIICT Annual Fest)
 
 
 ### Hobbies & Interests
