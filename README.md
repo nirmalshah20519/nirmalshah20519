@@ -51,8 +51,19 @@ I'm **Nirmal Shah**, a passionate software engineer and M.Tech student specializ
   - 🎟️ Movie Ticket booking site (BookMyShow Clone)
   - 🍔 Food Ordering Site (Swiggy Clone)
   - 🎉 Synapse'24 Website (DAIICT Annual Fest)
+ 
+## <li> GitHub Stats
 
-### Opensource contribution Badges
+Here are some stats about my GitHub activity:
+
+![Nirmal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirmalshah20519&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalshah20519&layout=compact&theme=radical)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nirmalshah20519&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## <li> Opensource contribution Badges
 [![An image of @nirmalshah20519's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nirmalshah20519)](https://holopin.io/@nirmalshah20519)
 
 
