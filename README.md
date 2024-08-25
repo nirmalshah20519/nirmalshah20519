@@ -52,6 +52,9 @@ I'm **Nirmal Shah**, a passionate software engineer and M.Tech student specializ
   - 🍔 Food Ordering Site (Swiggy Clone)
   - 🎉 Synapse'24 Website (DAIICT Annual Fest)
 
+### Opensource contribution Badges
+[![An image of @nirmalshah20519's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nirmalshah20519)](https://holopin.io/@nirmalshah20519)
+
 
 ### Hobbies & Interests
 
