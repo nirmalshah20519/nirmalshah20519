@@ -56,7 +56,7 @@ I'm **Nirmal Shah**, a passionate software engineer and M.Tech student specializ
 
 Here are some stats about my GitHub activity:
 
-![Nirmal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirmalshah20519&show_icons=true&theme=radical)
+![Nirmal's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=nirmalshah20519&theme=radical&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalshah20519&layout=compact&theme=radical)
 
